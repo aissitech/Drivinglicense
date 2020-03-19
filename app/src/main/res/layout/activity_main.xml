@@ -18,5 +18,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:onClick="clickMe"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="button2"/>
 
 </android.support.constraint.ConstraintLayout>

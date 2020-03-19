@@ -16,4 +16,7 @@ public class MainActivity extends AppCompatActivity {
     public void clickMe(View view) {
 
     }
+
+    public void button2(View view) {
+    }
 }
